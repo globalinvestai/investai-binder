@@ -1,3 +1,5 @@
 panda
 numpy
 pyspark
+pyarrow
+py4j
