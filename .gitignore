@@ -6,3 +6,4 @@ __pycache__
 autos.csv
 
 pyspark_conda_env.tar.gz
+notebook/example.parquet
