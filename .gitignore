@@ -1,0 +1,7 @@
+bar.parquet
+foo.csv
+zoo.orc
+__pycache__
+.DS_Store
+autos.csv
+

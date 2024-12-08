@@ -1,0 +1,125 @@
+{
+    "name": "car_table",
+    "columns": [
+        {
+            "column_name": "dateCrawled",
+            "data_type": "TIMESTAMP",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "name",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "seller",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "offerType",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "price",
+            "data_type": "LONG",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "abtest",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "vehicleType",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "yearOfRegistration",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "gearbox",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "powerPS",
+            "data_type": "SHORT",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "model",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "kilometer",
+            "data_type": "LONG",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "monthOfRegistration",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "fuelType",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "brand",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "notRepairedDamage",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "dateCreated",
+            "data_type": "DATE",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "nrOfPictures",
+            "data_type": "SHORT",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "postalCode",
+            "data_type": "STRING",
+            "nullable": true,
+            "metadata": null
+        },
+        {
+            "column_name": "lastSeen",
+            "data_type": "TIMESTAMP",
+            "nullable": true,
+            "metadata": null
+        }
+    ]
+}
