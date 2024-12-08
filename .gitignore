@@ -5,3 +5,4 @@ __pycache__
 .DS_Store
 autos.csv
 
+pyspark_conda_env.tar.gz
