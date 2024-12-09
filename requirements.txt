@@ -4,3 +4,4 @@ pyspark==3.5.3
 pyarrow
 py4j
 delta-spark==3.2.0
+deltalake>=0.18.2
