@@ -7,3 +7,4 @@ autos.csv
 
 pyspark_conda_env.tar.gz
 notebook/example.parquet
+notebook/spark-warehouse/countries/
